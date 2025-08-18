@@ -1,2 +1,2 @@
-# Js-first
-Javascript first repository in my github profile
+# Javascript course 
+Javascript course first repository in my github profile
